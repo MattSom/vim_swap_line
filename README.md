@@ -1,5 +1,4 @@
-# vim_swap_line
-
+# Swap line in vim
 Work of Mykola Golubyev - http://stackoverflow.com/users/54684/mykola-golubyev
 http://stackoverflow.com/a/741819/6560773
 
